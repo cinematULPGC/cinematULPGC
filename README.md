@@ -27,16 +27,18 @@ TODO: Write usage instructions
 ## History
 
 This project was developed with the purpose of making the process of studying the 
-biomechanics in veterinary medicine easier for all doctors.
+biomechanics involved in veterinary medicine easier for all doctors.
 
 ## Credits
 
-Deriman Franco GarcÌa \<<deriman.franco.garcia@gmail.com>\>
+Deriman Franco Garc√≠a \<<deriman.franco.garcia@gmail.com>\>  
+Alexis Quesada Arencibia, Universidad de Las Palmas de Gran Canaria \<<alexis.quesada@ulpgc.es>\>  
+Jose Manuel Vilar Guere√±o, Universidad de Las Palmas de Gran Canaria \<<jose.vilar@ulpgc.es>\>
 
 ## License
 
  	CinematULPGC - An application for the study of biomechanics in veterinary medicine
-    Copyright (C) 2016  Deriman Franco GarcÌa
+    Copyright (C) 2016  Deriman Franco Garc√≠a
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
